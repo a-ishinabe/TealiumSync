@@ -1,2 +1,2 @@
 # TealiumSync
-Tealium iQ 高度なavascript拡張機能とGithubとの同期
+Tealium iQ 高度なJavascript拡張機能とGithubとの同期
